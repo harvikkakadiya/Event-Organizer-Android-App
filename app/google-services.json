@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "32784680629",
+    "firebase_url": "https://eventorganiser-e7d29.firebaseio.com",
+    "project_id": "eventorganiser-e7d29",
+    "storage_bucket": "eventorganiser-e7d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32784680629:android:e0e9243fcdede0a9",
+        "android_client_info": {
+          "package_name": "in.edu.charusat.cspit.it.eventorganiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32784680629-u5hcer91f997vvl0rfdlcacsg23rif4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.edu.charusat.cspit.it.eventorganiser",
+            "certificate_hash": "f15bcc8364d0376070b920750fd6047a8315fa60"
+          }
+        },
+        {
+          "client_id": "32784680629-hn6s33atrs4qnfb24m2ft5oivrste1bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.edu.charusat.cspit.it.eventorganiser",
+            "certificate_hash": "cd2aeaaa22d621a75ed2334da1252f871a4b2033"
+          }
+        },
+        {
+          "client_id": "32784680629-bjnrenela3d7oo165t33bmi2d33diqt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkmaa3i3zOSuwUiCgBDZJC2egeUm9E2MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32784680629-bjnrenela3d7oo165t33bmi2d33diqt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
